@@ -2,6 +2,6 @@ Hello.
 
 I am a hobby programer.
 
-The almost only thing I do is editing my config files.
+The almost only thing I do is editing my config files. (which has mainly been neovim)
 
 *NOTE:I DO NOT YET DESIDED ON A PROPER USERNAME. !!DO NOT!! USE tempusername0 TO REFER TO ME!*
