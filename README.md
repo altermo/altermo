@@ -1,8 +1,8 @@
-Last updated: 2024-08-23
+Last updated: 2024-11-25
 ## Currently working on
-Nothing.
-<!--#### Ultimate autopair v0.7
-I'm around 50% done. You can see the in-progress-version [here](https://github.com/altermo/ultimate-autopair.nvim/tree/v0.7-pre-alpha).-->
++ Ultimate autopair v0.7
++ [nelisp](https://github.com/altermo/nelisp)
+<!-- Nothing. -->
 <!--#### Neovim wayland window manager
 Currently I still have not got a singular window to display. The project is currently using wlroots. When the project is complete, it will replace the existing [nxwm](https://github.com/altermo/nxwm) repository, and the repository will be renamed to `nwm`(Neovim window manager). The progress on this is slow, as I have no idea what I'm doing. \
 Current status: still have no window displayed on screen and random crashes-->
@@ -10,7 +10,8 @@ Current status: still have no window displayed on screen and random crashes-->
 Here is a list of all my plugins and a short description of what they do.
 + [ultimate-autopair](https://github.com/altermo/ultimate-autopair.nvim): treesitter+multiline autopair with too many options
 + [nwm](https://github.com/altermo/nwm): a X11 window manager in Neovim.
-+ [iedit](https://github.com/altermo/iedit.nvim) emacs's iedit in neovim. \
++ [iedit](https://github.com/altermo/iedit.nvim) emacs's iedit in Neovim.
++ [nelisp](https://github.com/altermo/nelisp) emacs-lisp interpreter in Neovim. \
   \
   *The following plugins are not professional and may not contain READMEs*
 + [small](https://github.com/altermo/small.nvim) I have a lot of plugin ideas, so I make them and put them here.
