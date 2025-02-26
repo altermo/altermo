@@ -1,6 +1,6 @@
 Last updated: 2025-01-14
 ## Currently working on
-+ [Ultimate autopair v0.7](https://github.com/altermo/ultimate-autopair.nvim/tree/v0.7-pre-alpha)
+<!-- + [Ultimate autopair v0.7](https://github.com/altermo/ultimate-autopair.nvim/tree/v0.7-pre-alpha) -->
 + [nelisp](https://github.com/altermo/nelisp)
 <!-- Nothing. -->
 <!--#### Neovim wayland window manager
