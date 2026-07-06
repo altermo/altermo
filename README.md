@@ -24,3 +24,6 @@ Here is a list of all my plugins and a short description of what they do.
 + [ditto-fork](https://github.com/altermo/vim-ditto-fork) lua rewrite of [vim-ditto](https://github.com/dbmrq/vim-ditto)
 + [wordy-fork](https://github.com/altermo/vim-wordy-fork) lua rewrite of [vim-wordy](https://github.com/altermo/vim-wordy-fork)
 + [nelisp](https://github.com/altermo/nelisp) emacs-lisp interpreter in Neovim.
+
+# Contact
++ carbon-dash-clique@duck.com (email alias, will be rotated occasinally)
