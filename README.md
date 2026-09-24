@@ -1,12 +1,10 @@
-Last updated: 2026-05-23
+Last updated: 2026-09-24
 ## Currently working on
 <!-- + [Ultimate autopair v0.7](https://github.com/altermo/ultimate-autopair.nvim/tree/v0.7-pre-alpha) -->
-+ [nwm](https://github.com/altermo/nwm)
-+ Ultimate autopair v0.7 (not that much)
++ [nwm/river](https://github.com/altermo/nwm/tree/river)
+<!-- + Ultimate autopair v0.7 (not that much) -->
++ Finding a job
 <!-- Nothing. -->
-<!--#### Neovim wayland window manager
-Currently I still have not got a singular window to display. The project is currently using wlroots. When the project is complete, it will replace the existing [nxwm](https://github.com/altermo/nxwm) repository, and the repository will be renamed to `nwm`(Neovim window manager). The progress on this is slow, as I have no idea what I'm doing. \
-Current status: still have no window displayed on screen and random crashes-->
 # My neovim plugins
 Here is a list of all my plugins and a short description of what they do.
 + [ultimate-autopair](https://github.com/altermo/ultimate-autopair.nvim): treesitter+multiline autopair with too many options
